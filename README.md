@@ -1,2 +1,2 @@
 # Technical-Writing-Portfolio
-Samples of software documentation including architectural and UML diagrams, infographics, videos and written explanations adapted to different types of audiences
+Visit [Wiki](https://github.com/Maria56461/Technical-Writing-Portfolio/wiki) for various software documentation samples, my work as a Computer Science student passionate about technical writing. 
